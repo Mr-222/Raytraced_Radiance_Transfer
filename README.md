@@ -22,8 +22,8 @@ By the way, the code structure is built upon Frank D. Luna's book
 Microsoft's [Direct3D 12 raytracing samples](https://learn.microsoft.com/en-us/samples/microsoft/directx-graphics-samples/d3d12-raytracing-samples-win32/).
 
 ## Result
-![result](Pics/result.png)
 You can see the soft shadow and the diffuse reflection of environment lighting.
+![result](Pics/result.png)
 
 
 
